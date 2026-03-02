@@ -99,7 +99,8 @@ An interactive dashboard was built to provide a comprehensive view of business p
 * `superstore_cleaned_data.xlsx` – Processed dataset used for analysis
 * `dashboard_overview.png` – Dashboard preview
 * `README.md` – Project documentation
-
+* 'Sales Performance dashboard.pbix' - live dashboard
+* 'requirement.txt' - libraries required to run the python file
 ---
 
 ## Project Outcome
